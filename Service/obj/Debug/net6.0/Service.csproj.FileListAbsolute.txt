@@ -1,0 +1,28 @@
+D:\Project Web\Myseft\VocabularyProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+D:\Project Web\Myseft\VocabularyProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Web\Myseft\VocabularyProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+D:\Project Web\Myseft\VocabularyProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+D:\Project Web\Myseft\VocabularyProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+D:\Project Web\Myseft\VocabularyProject\Service\bin\Debug\net6.0\Service.deps.json
+D:\Project Web\Myseft\VocabularyProject\Service\bin\Debug\net6.0\Service.runtimeconfig.json
+D:\Project Web\Myseft\VocabularyProject\Service\bin\Debug\net6.0\Service.dll
+D:\Project Web\Myseft\VocabularyProject\Service\bin\Debug\net6.0\Service.pdb
+D:\Project Web\Myseft\VocabularyProject\Service\obj\Debug\net6.0\Service.dll
+D:\Project Web\Myseft\VocabularyProject\Service\obj\Debug\net6.0\refint\Service.dll
+D:\Project Web\Myseft\VocabularyProject\Service\obj\Debug\net6.0\Service.pdb
+D:\Project Web\Myseft\VocabularyProject\Service\obj\Debug\net6.0\Service.genruntimeconfig.cache
+D:\Project Web\Myseft\VocabularyProject\Service\obj\Debug\net6.0\ref\Service.dll
+D:\elif\VocabularyProject\Service\bin\Debug\net6.0\Service.deps.json
+D:\elif\VocabularyProject\Service\bin\Debug\net6.0\Service.runtimeconfig.json
+D:\elif\VocabularyProject\Service\bin\Debug\net6.0\Service.dll
+D:\elif\VocabularyProject\Service\bin\Debug\net6.0\Service.pdb
+D:\elif\VocabularyProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+D:\elif\VocabularyProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\elif\VocabularyProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+D:\elif\VocabularyProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+D:\elif\VocabularyProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+D:\elif\VocabularyProject\Service\obj\Debug\net6.0\Service.dll
+D:\elif\VocabularyProject\Service\obj\Debug\net6.0\refint\Service.dll
+D:\elif\VocabularyProject\Service\obj\Debug\net6.0\Service.pdb
+D:\elif\VocabularyProject\Service\obj\Debug\net6.0\Service.genruntimeconfig.cache
+D:\elif\VocabularyProject\Service\obj\Debug\net6.0\ref\Service.dll

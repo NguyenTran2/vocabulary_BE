@@ -1,0 +1,133 @@
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\obj\Debug\net6.0\VocabularyProject.csproj.AssemblyReference.cache
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\obj\Debug\net6.0\VocabularyProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\obj\Debug\net6.0\VocabularyProject.AssemblyInfoInputs.cache
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\obj\Debug\net6.0\VocabularyProject.AssemblyInfo.cs
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\obj\Debug\net6.0\VocabularyProject.csproj.CoreCompileInputs.cache
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\obj\Debug\net6.0\VocabularyProject.MvcApplicationPartsAssemblyInfo.cs
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\obj\Debug\net6.0\VocabularyProject.MvcApplicationPartsAssemblyInfo.cache
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\appsettings.Development.json
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\appsettings.json
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\VocabularyProject.exe
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\VocabularyProject.deps.json
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\VocabularyProject.runtimeconfig.json
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\VocabularyProject.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\VocabularyProject.pdb
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Humanizer.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\obj\Debug\net6.0\staticwebassets.build.json
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\obj\Debug\net6.0\staticwebassets.development.json
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\obj\Debug\net6.0\scopedcss\bundle\VocabularyProject.styles.css
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\obj\Debug\net6.0\VocabularyProject.csproj.CopyComplete
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\obj\Debug\net6.0\VocabularyProject.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\obj\Debug\net6.0\refint\VocabularyProject.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\obj\Debug\net6.0\VocabularyProject.pdb
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\obj\Debug\net6.0\VocabularyProject.genruntimeconfig.cache
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\obj\Debug\net6.0\ref\VocabularyProject.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Service.dll
+D:\Project Web\Myseft\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Service.pdb
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\appsettings.Development.json
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\appsettings.json
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\VocabularyProject.exe
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\VocabularyProject.deps.json
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\VocabularyProject.runtimeconfig.json
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\VocabularyProject.dll
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\VocabularyProject.pdb
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Humanizer.dll
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Service.dll
+D:\elif\VocabularyProject\VocabularyProject\bin\Debug\net6.0\Service.pdb
+D:\elif\VocabularyProject\VocabularyProject\obj\Debug\net6.0\VocabularyProject.csproj.AssemblyReference.cache
+D:\elif\VocabularyProject\VocabularyProject\obj\Debug\net6.0\VocabularyProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\elif\VocabularyProject\VocabularyProject\obj\Debug\net6.0\VocabularyProject.AssemblyInfoInputs.cache
+D:\elif\VocabularyProject\VocabularyProject\obj\Debug\net6.0\VocabularyProject.AssemblyInfo.cs
+D:\elif\VocabularyProject\VocabularyProject\obj\Debug\net6.0\VocabularyProject.csproj.CoreCompileInputs.cache
+D:\elif\VocabularyProject\VocabularyProject\obj\Debug\net6.0\VocabularyProject.MvcApplicationPartsAssemblyInfo.cs
+D:\elif\VocabularyProject\VocabularyProject\obj\Debug\net6.0\VocabularyProject.MvcApplicationPartsAssemblyInfo.cache
+D:\elif\VocabularyProject\VocabularyProject\obj\Debug\net6.0\staticwebassets\msbuild.VocabularyProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\elif\VocabularyProject\VocabularyProject\obj\Debug\net6.0\staticwebassets\msbuild.build.VocabularyProject.props
+D:\elif\VocabularyProject\VocabularyProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VocabularyProject.props
+D:\elif\VocabularyProject\VocabularyProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VocabularyProject.props
+D:\elif\VocabularyProject\VocabularyProject\obj\Debug\net6.0\staticwebassets.pack.json
+D:\elif\VocabularyProject\VocabularyProject\obj\Debug\net6.0\staticwebassets.build.json
+D:\elif\VocabularyProject\VocabularyProject\obj\Debug\net6.0\staticwebassets.development.json
+D:\elif\VocabularyProject\VocabularyProject\obj\Debug\net6.0\scopedcss\bundle\VocabularyProject.styles.css
+D:\elif\VocabularyProject\VocabularyProject\obj\Debug\net6.0\VocabularyProject.csproj.CopyComplete
+D:\elif\VocabularyProject\VocabularyProject\obj\Debug\net6.0\VocabularyProject.dll
+D:\elif\VocabularyProject\VocabularyProject\obj\Debug\net6.0\refint\VocabularyProject.dll
+D:\elif\VocabularyProject\VocabularyProject\obj\Debug\net6.0\VocabularyProject.pdb
+D:\elif\VocabularyProject\VocabularyProject\obj\Debug\net6.0\VocabularyProject.genruntimeconfig.cache
+D:\elif\VocabularyProject\VocabularyProject\obj\Debug\net6.0\ref\VocabularyProject.dll
